@@ -1,4 +1,5 @@
 # Online-Banking-System
 SQL Project
+
      Online Banking System is a web application that ensures a registered user to enjoy banking online. This Online Banking project is a web application where you can transfer money to other users and can have a close watch on all your transactions. Consumers aren't required to visit a bank branch in order to complete most of their basic banking transactions.Instead a customer needs a device, an Internet connection, and a bank card to register. Once registered, the custumer sets up a password to begin using the service. The customer must have a correct user ID and password to log into his device else in case of three succession incorrect password, the user will be alerted with dialog box that his account will be closed. In this customers can also request details of last 'n' transactions.
     This database will store Customer details of their user_id , password to login , and their account details that may be credit or debit and also store transaction details along with it's date and time , It will also store Loan details of all valid customers.
